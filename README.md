@@ -1,5 +1,5 @@
 ### Hi, I'm Nont! :)
- I am a full-stack web developer 💻,  
+ I am a software engineer 💻,  
  relaxing in game dev sometimes 🎮
  love to code 💖 and wants to improve my coding more and more. 💡
 <br>
